@@ -24,6 +24,7 @@ box-shadow:  35px 35px 63px #7d7d7d,
 	left:36.1%;
     margin-top: 7%;
     font-family: 'Lato', sans-serif;
+    font-size: auto;
 }
 .search {
 	position: fixed;
